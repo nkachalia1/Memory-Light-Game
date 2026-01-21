@@ -1,7 +1,7 @@
 # Memory Light Game
 
 ## Website
-Memory Light Game (GitHub Pages deployment optional)
+[Memory Light Game](https://nkachalia1.github.io/Memory-Light-Game/)
 
 ## Description
 
