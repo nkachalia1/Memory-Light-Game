@@ -32,9 +32,11 @@ Welcome to **Memory Light Game**, a browser-based interactive memory challenge i
   <img src="home.png" width="400" alt="Memory Light Game – Home Screen">
 </p>
 Displays the game board, counter, control buttons, and power switch.
-
-### Gameplay
-
+s
+### Gameplay Preview
+<p align="center">
+  <img src="gameplay.gif" width="400" alt="Memory Light Game – Gameplay">
+</p>
 The game highlights each color in sequence. Players must repeat the exact pattern to continue.
 
 *Alt text: Colored quadrant lighting up during sequence playback*
