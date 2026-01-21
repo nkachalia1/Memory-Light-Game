@@ -28,10 +28,8 @@ Welcome to **Memory Light Game**, a browser-based interactive memory challenge i
 ## Usage
 
 ### Home Screen
-
+![Memory Light Game – Home Screen](home.png)
 Displays the game board, counter, control buttons, and power switch.
-
-*Alt text: Memory Light Game interface with colored quadrants and center control panel*
 
 ### Gameplay
 
