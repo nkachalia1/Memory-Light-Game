@@ -35,7 +35,7 @@ Displays the game board, counter, control buttons, and power switch.
 s
 ### Gameplay Preview
 <p align="center">
-  <img src="gameplay.gif" width="400" alt="Memory Light Game – Gameplay">
+  <img src="gameplay.gif" width="800" alt="Memory Light Game – Gameplay">
 </p>
 The game highlights each color in sequence. Players must repeat the exact pattern to continue.
 
