@@ -28,7 +28,9 @@ Welcome to **Memory Light Game**, a browser-based interactive memory challenge i
 ## Usage
 
 ### Home Screen
-![Memory Light Game – Home Screen](home.png)
+<p align="center">
+  <img src="home.png" width="400" alt="Memory Light Game – Home Screen">
+</p>
 Displays the game board, counter, control buttons, and power switch.
 
 ### Gameplay
