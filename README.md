@@ -201,6 +201,3 @@ else if (gameStatus.index == 20) {
 - Mobile vibration feedback
 - Difficulty presets
 - High-score tracking
-- Accessibility improvements (keyboard-only mode, ARIA labels)
-
----
