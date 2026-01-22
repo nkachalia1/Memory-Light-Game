@@ -209,7 +209,7 @@ $(document).ready(function() {
 
       if (gameStatus.index < gameStatus.sequence.length) {
         gameStatus.toHndl = setTimeout(notifyError, 5 * gameStatus.timeStep);
-      } else if (gameStatus.index == 20) {
+      } else if (gameStatus.index == 1) {
         $('.push').removeClass('clickable').addClass('unclickable');
         gameStatus.toHndl = setTimeout(notifyWin, gameStatus.timeStep);
       } else {
